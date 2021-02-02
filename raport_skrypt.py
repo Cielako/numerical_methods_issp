@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
-from scipy.interpolate import lagrange
 from numpy.polynomial.polynomial import Polynomial
 
 #zdefiniowanie funkcji na podstawie wyprowadzonych równań
